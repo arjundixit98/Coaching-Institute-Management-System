@@ -1,1 +1,1 @@
-# Coaching-Institute-Management-Sysytem
+# Coaching-Institute-Management-System
