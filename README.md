@@ -5,14 +5,15 @@
 
 ## SignUp/Login Page
 Either you are a student or the Owner/Admin of the Coaching, you have to login with your account otherwise SignUp with all your details to create your account when you access for the first time.
-Also, he can sort all the student records to make the Database more organized.
-
-The most exciting feature is to select 3 students randomly for scholarship out of all the stduents who opted for the scholarship which registering in the Coaching Institute. This uses a function which generates non-repeating ID's of 3 existing students who opted for scholarship and succesfully debits the scholarhip ammount from the Student's fee. 
 
 ![2](https://user-images.githubusercontent.com/36246420/57571589-bfb26280-742d-11e9-9948-7b9c6717289f.png)
 
 ## Admin Portal
 This is how the Admin portal looks like and has the overall control of the Coaching which allows him to view any student's record and delete it if he wishes to.
+
+Also, he can sort all the student records to make the Database more organized.
+
+The most exciting feature is to select 3 students randomly for scholarship out of all the stduents who opted for the scholarship which registering in the Coaching Institute. This uses a function which generates non-repeating ID's of 3 existing students who opted for scholarship and succesfully debits the scholarhip ammount from the Student's fee. 
 
 ![3](https://user-images.githubusercontent.com/36246420/57571591-c2ad5300-742d-11e9-87eb-77ea82fe1265.png)
 
